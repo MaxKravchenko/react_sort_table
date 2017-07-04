@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+table {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+  border-radius: 6px;
+  width: 50%;
+}
+
+tr {
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+
+th {
+  background-color: #cfd1ff;
+  border: 1px solid #ccc;
+}
+
+td {
+  background-color: #fff3e9;
+  border: 1px solid #ccc;
+  text-align: left;
+}
